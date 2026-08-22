@@ -137,7 +137,7 @@ Donnez-nous une ⭐ sur GitHub pour soutenir le projet !
 
 ### Contact
 
-Pour toutes suggestions, veuillez ouvrir une **Issue** sur GitHub.
+Veuillez ouvrir une **Issue** sur GitHub ou **volvypos@outlook.com**
 
 ---
 
