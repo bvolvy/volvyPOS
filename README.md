@@ -1,7 +1,7 @@
 <h1><img src="./Screenshots/icon.png" width="80" height="80" align="center"> <strong>volvyPOS</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" />
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" />
   <img src="https://img.shields.io/badge/offline-100%25-success" />
   <img src="https://img.shields.io/badge/stack-React%20%7C%20Node%20%7C%20SQLite-orange" />
 </p>
