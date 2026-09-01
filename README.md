@@ -1,4 +1,4 @@
-<h1><img src="./Screenshots/ico.png" width="55" height="55" align="center"> <strong>volvyPOS</strong><span> </span></h1>-Gestion de Stock & Point de Vente</span>
+<h1><img src="./Screenshots/icon.png" width="55" height="55" align="center"> <strong>volvyPOS</strong></h1><span> -Gestion de Stock & Point de Vente</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" />
