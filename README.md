@@ -1,4 +1,4 @@
-<h1><img src="./Screenshots/icon.png" width="100" height="100" align="center"> <strong>volvyPOS</strong></h1>
+<h1><img src="./Screenshots/icon.png" width="80" height="80" align="center"> <strong>volvyPOS</strong></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" />
