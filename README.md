@@ -1,4 +1,4 @@
-# 🧾 volvyPOS — Gestion de Stock & Point de Vente
+<img src="./build/ico.png" width="40" height="40" align="center"> volvyPOS — Gestion de Stock & Point de Vente
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue" />
